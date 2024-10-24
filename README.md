@@ -54,9 +54,13 @@
 
 ## Output:
 
+![Screenshot (4)](https://github.com/user-attachments/assets/f97754b2-be5c-4b33-af89-e5abbbbb53cc)
+![Screenshot (3)](https://github.com/user-attachments/assets/98474d59-2771-4006-9546-c4a489e4e933)
 
-### Name:
-### Register Number: 
+
+
+### Name:supriya S J
+### Register Number:24001109
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
